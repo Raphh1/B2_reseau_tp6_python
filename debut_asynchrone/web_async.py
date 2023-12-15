@@ -2,7 +2,6 @@ import aiohttp
 import aiofiles
 import asyncio
 import sys
-import os
 
 async def get_content(url):
     try:
